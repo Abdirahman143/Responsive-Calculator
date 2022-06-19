@@ -45,6 +45,7 @@ class MainActivity : AppCompatActivity() {
         tvBack.setOnClickListener{
 
             val string = tvExpression.toString()
+            val String = null;
 
             if(string.isNotEmpty())
             {
